@@ -1,7 +1,8 @@
-=============
-summer-school
-=============
-Notebooks for the `IfI Summer School on Machine Learning <http://www.ifi.uzh.ch/en/studies/phd/summer-schools/summerschool2018.html>`_
+==========================================
+IfI Summer School 2018 on Machine Learning
+==========================================
+
+Slides and material for tensor methods course at the `IfI Summer School on Machine Learning <http://www.ifi.uzh.ch/en/studies/phd/summer-schools/summerschool2018.html>`_
 
 Requirements
 ============
